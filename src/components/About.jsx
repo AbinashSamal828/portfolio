@@ -4,7 +4,9 @@ const About = () => {
   return (
     <div className="w-full h-screen bg-black text-white ">
       <div className="flex flex-col justify-center text-center max-w-[1000px] mx-auto px-8 md:px-24 h-full">
-        <div className="text-5xl font-bold sm:text-6xl mt-2 text-cyan-500">About</div>
+        <div className="text-5xl font-bold sm:text-6xl mt-2 text-cyan-500 mb-10">
+          <span className="border-b-4">About</span>
+        </div>
         <p className="mt-4 sm:text-xl">
           My name is Abinash Samal and I am a full stack web developer with a
           passion for problem-solving. I am currently pursuing a Bachelor of

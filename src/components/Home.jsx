@@ -14,7 +14,7 @@ const Home = () => {
           development and data structures and algorithms. Explore my work, and
           don't hesitate to contact me for any inquiries or collaborations.
         </p>
-        <button className="w-[130px] mt-6 bg-cyan-900 text-center h-[45px] border-solid border-white border-2 rounded-md">
+        <button className="text-white border-2 hover:bg-cyan-500 hover:border-cyan-500 px-4 py-3 my-8 w-fit  flex items-center">
           view works
         </button>
       </div>
