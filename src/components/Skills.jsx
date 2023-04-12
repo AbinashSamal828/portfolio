@@ -8,6 +8,8 @@ import firebase from '../assets/firebase.png'
 import cpp from '../assets/cpp.png'
 import mongo from '../assets/mongo.png'
 import github from '../assets/github.png'
+import ract from '../assets/react.png'
+import tailwind from '../assets/tailwind.png'
 
 
 const Skills = () => {
@@ -20,7 +22,9 @@ const Skills = () => {
             <TechCard img={html} name="HTML"/>
             <TechCard img={css} name="CSS"/>
             <TechCard img={javascript} name="JAVASCRIPT"/>
+            <TechCard img={ract} name="REACT.JS"/>
             <TechCard img={node} name="NODE"/>
+            <TechCard img={tailwind} name="TAILWIND"/>
             <TechCard img={firebase} name="FIREBASE"/>
             <TechCard img={cpp} name="C++"/>
             <TechCard img={mongo} name="MONGO DB"/>
