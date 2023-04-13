@@ -1,6 +1,5 @@
 import React from "react";
-import { BsTelephone } from "react-icons/bs";
-import { HiOutlineMail } from "react-icons/hi";
+
 
 const Contact = () => {
   return (
@@ -10,7 +9,7 @@ const Contact = () => {
     >
       <form
         method="POST"
-        action="https://getform.io/f/a699a1b2-f225-434e-b317-1fbbde8e006c"
+        action="https://getform.io/f/1cd1154c-7b29-4927-8719-7f777f313344"
         className="flex flex-col max-w-[600px] w-full"
       >
         <div className="pb-8 text-center m-6">
