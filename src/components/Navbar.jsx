@@ -61,7 +61,7 @@ function Navbar() {
                 <FaGithub size={25} />
               </li>
               <li className="flex p-3 justify-between items-center w-[150px] h-[50px] bg-orange-600 hover:ml-[-10px] ml-[-110px] duration-300">
-                <a href="https://drive.google.com/file/d/1rfxxaNkkJxabW-VDu-vkcYXx4zqTTD0U/view?usp=share_link">
+                <a href="https://drive.google.com/file/d/1xeDxjn2pT68o25WyvEz5WgJAc1ZLGY46/view?usp=sharing">
                   Resume
                 </a>
                 <RiContactsLine size={25} />
